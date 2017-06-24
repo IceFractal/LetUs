@@ -2,6 +2,8 @@
 
 > Event Planning Made Easy!
 
+![Let Us Example](/let-us.png?raw=true)
+
 ## Team
 
   - __Product Owner__: David An
